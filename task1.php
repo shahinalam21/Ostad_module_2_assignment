@@ -1,4 +1,5 @@
 <?php
+// Task1 start here.
 // <!-- Write a PHP function that uses a for loop to print all even numbers from 1 to 20, -->
 
 function Find_Even_Number_task1($n){
@@ -47,3 +48,7 @@ do{
     }
     $i++;
 }while($i <= 20);
+
+
+
+// task1 end here
